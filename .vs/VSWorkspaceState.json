@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\clientsocket",
+    "\\commandctrl",
+    "\\dbctrl",
+    "\\log",
+    "\\mutexlock",
+    "\\timecontrol"
+  ],
+  "SelectedNode": "\\demo.py",
+  "PreviewInSolutionExplorer": false
+}

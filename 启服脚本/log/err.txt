@@ -1,0 +1,1295 @@
+[2018-06-16 21:13:41] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:14:07] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:21:47] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:27:08] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:32:49] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:34:25] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:49:07] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:49:27] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:58:04] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 21:58:37] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 22:05:09] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-16 22:48:19] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-17 10:00:23] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 23, in InitManger
+    self.m_oSocket.bind(("10.32.12.103", 12080))
+  File "E:\Python27\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 10049] 
+---------extra---------
+
+[2018-06-18 10:48:27] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 55, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 34, in CalPos
+    begin = dData["BeginCountDown"]
+KeyError: 'BeginCountDown'
+---------extra---------
+recvfail2
+[2018-06-18 13:13:46] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 65, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 42, in CalPos
+    "Count" : CountNum ,
+UnboundLocalError: local variable 'CountNum' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 13:18:49] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 63, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 42, in CalPos
+    "Count" : CountNum ,
+UnboundLocalError: local variable 'CountNum' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 13:19:43] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 63, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 45, in CalPos
+    CountNum = CountNum-1
+UnboundLocalError: local variable 'CountNum' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 16:18:16] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 70, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 46, in CalPos
+    self.CountDown()
+  File "F:\TrainDemo\server\server\code\demo.py", line 51, in CountDown
+    t = threading.Timer(1.0,CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:18:52] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 70, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 46, in CalPos
+    self.CountDown()
+  File "F:\TrainDemo\server\server\code\demo.py", line 51, in CountDown
+    t = threading.Timer(1.0,CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:24:16] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 74, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    if isCount:
+UnboundLocalError: local variable 'isCount' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 16:25:06] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 74, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 42, in CalPos
+    t = threading.Timer(1.0, CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:27:48] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 74, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 48, in CalPos
+    t = threading.Timer(1.0, CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:29:30] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 75, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 49, in CalPos
+    t = threading.Timer(1.0, CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:30:08] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 76, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 49, in CalPos
+    t = threading.Timer(1.0, CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:32:47] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 76, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 49, in CalPos
+    t = threading.Timer(1.0, CountDown(self))
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:35:22] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 77, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 49, in CalPos
+    t = threading.Timer(1.0, CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:36:07] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 78, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 49, in CalPos
+    t = threading.Timer(1.0, CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:38:00] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 78, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 49, in CalPos
+    t = threading.Timer(1.0, CountDown,self)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:40:30] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 78, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 49, in CalPos
+    t = threading.Timer(1.0, CountDown)
+NameError: global name 'CountDown' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 16:44:53] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 78, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 46, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-06-18 16:48:30] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 16:49:04] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 16:51:41] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 16:53:52] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 16:55:09] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 16:59:30] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 17:04:17] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 17:09:59] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 17:10:57] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 79, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 41, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 17:13:21] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 80, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 53, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 17:15:30] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 80, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 53, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-06-18 17:17:55] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 82, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 42, in CalPos
+    pubdefines.FormatPrint("开始传输数据")
+  File "F:\TrainDemo\server\server\code\pubdefines.py", line 57, in FormatPrint
+    print sMsg
+IOError: [Errno 0] Error
+---------extra---------
+recvfail2
+[2018-06-18 18:05:12] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 85, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 47, in CalPos
+    "timeout": timeout,
+NameError: global name 'timeout' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 19:15:16] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 88, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 43, in CalPos
+    if begin:
+NameError: global name 'begin' is not defined
+---------extra---------
+recvfail2
+[2018-06-18 19:43:53] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 88, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 44, in CalPos
+    pubdefines.FormatPrint("开始传输数据")
+  File "F:\TrainDemo\server\server\code\pubdefines.py", line 57, in FormatPrint
+    print sMsg
+IOError: [Errno 0] Error
+---------extra---------
+recvfail2
+[2018-06-20 14:49:44] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 110, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 53, in CalPos
+    t.cancel()
+UnboundLocalError: local variable 't' referenced before assignment
+---------extra---------
+recvfail2
+[2018-07-01 13:52:39] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 122, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 71, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 13:54:07] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 122, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 71, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 14:07:55] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 139, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 73, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 15:22:42] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 150, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 84, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 15:27:38] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 150, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 84, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 15:49:59] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 153, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 87, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 15:51:46] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 153, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 87, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 16:03:28] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 153, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 87, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 16:17:10] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 153, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 87, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 16:26:24] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 154, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 88, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 16:28:40] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 155, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 89, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 16:30:20] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 155, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 89, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
+[2018-07-01 16:41:10] ---------TraceErr---------
+Traceback (most recent call last):
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 36, in run
+    self.Recv(sData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 54, in Recv
+    self.OnCommand(dPackData)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 104, in OnCommand
+    commandctrl.OnCommand(self, dData)
+  File "F:\TrainDemo\server\server\code\commandctrl\__init__.py", line 15, in OnCommand
+    oManager.OnCommand(oClient, dData)
+  File "F:\TrainDemo\server\server\code\mutexlock\__init__.py", line 18, in ___AutoLock
+    ret = func(*args, **kwargs)
+  File "F:\TrainDemo\server\server\code\commandctrl\manager.py", line 27, in OnCommand
+    oFunc(oClient, dData)
+  File "F:\TrainDemo\server\server\code\demo.py", line 155, in OnCommand
+    pubglobalmanager.CallManagerFunc("demo", "CalPos", oClient, dData)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\demo.py", line 89, in CalPos
+    oClient.Send(dReturn)
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 90, in Send
+    self.Disconnected("sendfail")
+  File "F:\TrainDemo\server\server\code\clientsocket\clientobject.py", line 101, in Disconnected
+    pubglobalmanager.CallManagerFunc(defines.SOCKET_MANAGER, "Disconnected", self.m_ID, sReason)
+  File "F:\TrainDemo\server\server\code\pubglobalmanager.py", line 30, in CallManagerFunc
+    return oFunc(*args)
+  File "F:\TrainDemo\server\server\code\clientsocket\manager.py", line 68, in Disconnected
+    oClient.Release()
+AttributeError: 'NoneType' object has no attribute 'Release'
+---------extra---------
+recvfail2
